@@ -26,10 +26,10 @@ ssh -i instance.pem ubunutu@<IP_ADDRESS>
 
 
 4.Configuring Ubuntu on remote VM
+
  4.1 Updating the outdated packages and dependencies:
  
   sudo apt update
-
 
 4.2 Install Git - Guide by DigitalOcean
 4.3 Configure Node.js and npm - Guide by DigitalOcean
